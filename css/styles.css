@@ -102,7 +102,7 @@ article{
     min-height:30vh;
 }
 
-.articles {
+section.articles {
     display: grid; 
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
     gap: 1vw;
